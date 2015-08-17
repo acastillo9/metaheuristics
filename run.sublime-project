@@ -1,0 +1,19 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"javac ${file_name} && java ${file_base_name}"
+			],
+			"name": "runJavaArgs",
+			"shell": true
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/home/andres/Java_Applications"
+		}
+	]
+}
