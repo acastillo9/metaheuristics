@@ -55,46 +55,47 @@ public class MetaHeuristics {
 
 	    if (doubleOptsList.contains("help")) {
 	    	System.out.println(
-	    		"\n ******************* METAHEURISTICS ******************* \n"+
-	    		"\n This program implements meta heuristics from           \n"+
-	    		" preconfigured algorithms and functions that can be mixed \n"+
-	    		" together.                                                \n"+
-	    		"\n USAGE: ./run.sh '[OPTIONS]...'                         \n"+
-	    		"\n OPTIONS:                                               \n"+
-	    		" -ty    It indicates the type of meta heuristics to use.  \n"+
-	    		"        Values: [localsearch]                             \n"+
-	    		"        Required                                          \n"+
-	    		" -alg   It indicates the algorithm to use.                \n"+
-	    		"        Values: [hillclimbing]                            \n"+
-	    		"        Required                                          \n"+
-	    		" -i     Indicates the number of iterations for the        \n"+
-	    		"        algorithm, stopping criterion.                    \n"+
-	    		"        Value: Integer                                    \n"+
-	    		"        Optional - Default: 1000                          \n"+
-	    		" -ll    Indicates the lower limint for the algorithm.     \n"+
-	    		"        Value: Integer                                    \n"+
-	    		"        Optional - Default: -100                          \n"+
-	    		" -ul    Indicates the upper limint for the algorithm.     \n"+
-	    		"        Value: Integer                                    \n"+
-	    		"        Optional - Default: 100                           \n"+
-	    		" -sr    Indicates the search radio for the algorithm.     \n"+
-	    		"        Value: Double                                     \n"+
-	    		"        Optional - Default: 0.6                           \n"+
-	    		" -fun   It indicates the function that is applied the     \n"+
-	    		"        heuristics.                                       \n"+
-	    		"        Values: [sphere]                                  \n"+
-	    		"        Required                                          \n"+
-	    		" -d     Indicates the number of dimensions of the         \n"+
-	    		"        function.                                         \n"+
-	    		"        Value: Integer                                    \n"+
-	    		"        Optional - Default: 1                             \n"+
-	    		" -t     It indicates the times that will be applied the   \n"+
-	    		"        metaheuristic.                                    \n"+
-	    		"        Value: Integer                                    \n"+
-	    		"        Optional - Default: 1                             \n"+
-	    		" -s     It indicates the seed for randoms values.         \n"+
-	    		"        Value: Long                                       \n"+
-	    		"        Optional - Default: 12345                         \n"
+	    		"\n ******************* METAHEURISTICS ******************** \n"+
+	    		"\n This program implements meta heuristics from            \n"+
+	    		" preconfigured algorithms and functions that can be mixed  \n"+
+	    		" together.                                                 \n"+
+	    		"\n USAGE: ./run.sh '[OPTIONS]...'                          \n"+
+	    		"\n OPTIONS:                                                \n"+
+	    		" -ty     It indicates the type of meta heuristics to use.  \n"+
+	    		"         Values: [localsearch]                             \n"+
+	    		"         Required                                          \n"+
+	    		" -alg    It indicates the algorithm to use.                \n"+
+	    		"         Values: [hillclimbing]                            \n"+
+	    		"         Required                                          \n"+
+	    		" -i      Indicates the number of iterations for the        \n"+
+	    		"         algorithm, stopping criterion.                    \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: 1000                          \n"+
+	    		" -ll     Indicates the lower limint for the algorithm.     \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: -100                          \n"+
+	    		" -ul     Indicates the upper limint for the algorithm.     \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: 100                           \n"+
+	    		" -sr     Indicates the search radio for the algorithm.     \n"+
+	    		"         Value: Double                                     \n"+
+	    		"         Optional - Default: 0.6                           \n"+
+	    		" -fun    It indicates the function that is applied the     \n"+
+	    		"         heuristics.                                       \n"+
+	    		"         Values: [sphere]                                  \n"+
+	    		"         Required                                          \n"+
+	    		" -d      Indicates the number of dimensions of the         \n"+
+	    		"         function.                                         \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: 1                             \n"+
+	    		" -t      It indicates the times that will be applied the   \n"+
+	    		"         metaheuristic.                                    \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: 1                             \n"+
+	    		" -s      It indicates the seed for randoms values.         \n"+
+	    		"         Value: Long                                       \n"+
+	    		"         Optional - Default: 12345                         \n"+
+	    		" --help  More Help                                         \n"
 	    	);
 	    	return;
 	    }
