@@ -79,6 +79,10 @@ public class Main {
 	    		"         simulated annealing related algorithms            \n"+
 	    		"         Value: Double                                     \n"+
 	    		"         Optional - Default: 0.8                           \n"+
+	    		" -p      Indicates the population size in population       \n"+
+	    		"         related algorithms                                \n"+
+	    		"         Value: Integer                                    \n"+
+	    		"         Optional - Default: 100                           \n"+
 	    		" -f      It indicates the function that is applied the     \n"+
 	    		"         heuristics.                                       \n"+
 	    		"         Values: [sp (sphere), st (step), sc (schwefel),   \n"+
