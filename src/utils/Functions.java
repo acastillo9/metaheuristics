@@ -1,5 +1,5 @@
 package utils;
 
 public enum Functions {
-    SPHERE
+    SP, ST, SC, RT, GR, AC
 }

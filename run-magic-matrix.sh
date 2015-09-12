@@ -2,4 +2,4 @@
 find -name "*.java" > source.txt
 javac -d build @source.txt
 cd build
-java Main $1
+java samples/MagicMatrix $1

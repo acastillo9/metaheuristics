@@ -1,0 +1,1247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ara",
+				"ArrayList"
+			],
+			[
+				"ut",
+				"util	(Main.java)"
+			],
+			[
+				"java",
+				"java	(Main.java)"
+			],
+			[
+				"Arra",
+				"ArrayList	(Main.java)"
+			],
+			[
+				"getSe",
+				"getSeed()"
+			],
+			[
+				"next",
+				"nextDouble"
+			],
+			[
+				"curr",
+				"currSol"
+			],
+			[
+				"tw",
+				"tweak	(FeatureBasedTabuSearch.java)"
+			],
+			[
+				"fin",
+				"finLenghtTabuList"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"tab",
+				"tabuListLenght"
+			],
+			[
+				"ta",
+				"tabuListLenght"
+			],
+			[
+				"tuples",
+				"tuplesList"
+			],
+			[
+				"getTa",
+				"getTabuListLenght	(TabuSearch.java)"
+			],
+			[
+				"Tabu",
+				"TabuSearch"
+			],
+			[
+				"Tab",
+				"TabuSearch"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ad",
+				"add	(Main.java)"
+			],
+			[
+				"tabu",
+				"tabuList"
+			],
+			[
+				"Alg",
+				"Algorithm	(Main.java)"
+			],
+			[
+				"uti",
+				"utils	(Main.java)"
+			],
+			[
+				"Ta",
+				"tabuListLenght"
+			],
+			[
+				"Tau",
+				"TabuSearch"
+			],
+			[
+				"Uti",
+				"Util	(Main.java)"
+			],
+			[
+				"U",
+				"Util	(HillClimbingRandomRestarts.java)"
+			],
+			[
+				"search",
+				"searchRadio	(Main.java)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"adjus",
+				"adjustSol"
+			],
+			[
+				"SA",
+				"SAHC"
+			],
+			[
+				"Algo",
+				"Algorithms"
+			],
+			[
+				"ajust",
+				"ajustSol"
+			],
+			[
+				"cur",
+				"currSol"
+			],
+			[
+				"print",
+				"println	(Main.java)"
+			],
+			[
+				"get",
+				"getOptimal	(HillClimbing.java)"
+			],
+			[
+				"tot",
+				"totalIters"
+			],
+			[
+				"Hi",
+				"HillClimbing"
+			],
+			[
+				"algo",
+				"algorithm"
+			],
+			[
+				"setT",
+				"setTimes"
+			],
+			[
+				"best",
+				"best()"
+			],
+			[
+				"to",
+				"totalIters"
+			],
+			[
+				"cl",
+				"clone"
+			],
+			[
+				"sol",
+				"solution"
+			],
+			[
+				"getL",
+				"getLowLim	(Main.java)"
+			],
+			[
+				"ge",
+				"getPoint"
+			],
+			[
+				"H",
+				"HillClimbing"
+			],
+			[
+				"setAl",
+				"setAlgorithm(Algorithm algorithm)"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"histor",
+				"historicPoints"
+			],
+			[
+				"his",
+				"historicVals"
+			],
+			[
+				"co",
+				"contains"
+			],
+			[
+				"aux",
+				"auxP"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"twea",
+				"tweakPoints"
+			],
+			[
+				"twe",
+				"tweakIter"
+			],
+			[
+				"TWE",
+				"tweakIter"
+			],
+			[
+				"te",
+				"tweakPoints"
+			],
+			[
+				"de",
+				"deviation()"
+			],
+			[
+				"set",
+				"setX(int x)"
+			],
+			[
+				"S",
+				"setY(int y)"
+			],
+			[
+				"tweak",
+				"tweakPoints"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"foo",
+				"footerLogoWidth"
+			],
+			[
+				"main",
+				"mainFooter	(index.html)"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"res",
+				"resize	.resize()"
+			],
+			[
+				"hea",
+				"headHeight"
+			],
+			[
+				"c",
+				"css	.css() - single"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"u",
+				"util"
+			],
+			[
+				"ja",
+				"java	(MagicMatrix.java)"
+			],
+			[
+				"setMat",
+				"setMatrix(int[][] matrix)"
+			],
+			[
+				"jav",
+				"java"
+			],
+			[
+				"mat",
+				"matrix"
+			],
+			[
+				"ti",
+				"toString"
+			],
+			[
+				"ori",
+				"oriVal"
+			],
+			[
+				"des",
+				"desVal"
+			],
+			[
+				"st",
+				"stream"
+			],
+			[
+				"I",
+				"Iterator"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"gen",
+				"genVals"
+			],
+			[
+				"sum",
+				"sumColumn"
+			],
+			[
+				"Ma",
+				"MagicMatrix	(MagicMatrix.java)"
+			],
+			[
+				"r",
+				"Random"
+			],
+			[
+				"A",
+				"Ackley"
+			],
+			[
+				"AC",
+				"Ackley	(Ackley.java)"
+			],
+			[
+				"pa",
+				"package	(Functions.java)"
+			],
+			[
+				"upp",
+				"uppLim	(Function.java)"
+			],
+			[
+				"low",
+				"lowLim	(Function.java)"
+			],
+			[
+				"au",
+				"auxVal"
+			],
+			[
+				"Functio",
+				"Function	(Function.java)"
+			],
+			[
+				"setF",
+				"setFitness	(HillClimbing.java)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ini",
+				"initVal"
+			],
+			[
+				"im",
+				"import	(Main.java)"
+			],
+			[
+				"num",
+				"numTweaks"
+			],
+			[
+				"nu",
+				"numTweaks"
+			],
+			[
+				"rando",
+				"randomMax"
+			],
+			[
+				"ran",
+				"randomMin"
+			],
+			[
+				"max",
+				"randomMax"
+			],
+			[
+				"min",
+				"randomMin"
+			],
+			[
+				"int",
+				"intRandomInRange	(Util.java)"
+			],
+			[
+				"getRa",
+				"getRandomMin	(HillClimbingRandomRestarts.java)"
+			],
+			[
+				"getR",
+				"getRandomMax	(HillClimbingRandomRestarts.java)"
+			],
+			[
+				"setR",
+				"setRandomMin	(HillClimbingRandomRestarts.java)"
+			],
+			[
+				"getF",
+				"getFitness	(HillClimbing.java)"
+			],
+			[
+				"opt",
+				"optimal"
+			],
+			[
+				"Ran",
+				"RandomSearch"
+			],
+			[
+				"alg",
+				"algthm"
+			],
+			[
+				"Ra",
+				"RandomSearch"
+			],
+			[
+				"ra",
+				"randomsearch"
+			],
+			[
+				"R",
+				"RandomSearch"
+			],
+			[
+				"fi",
+				"fitness"
+			],
+			[
+				"ne",
+				"nextDouble"
+			],
+			[
+				"Funct",
+				"Functions	(Main.java)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Main.java",
+			"settings":
+			{
+				"buffer_size": 17431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Metaheuristic.java",
+			"settings":
+			{
+				"buffer_size": 2977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils/Algorithms.java",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/algorithms/Genetic.java",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils/Population.java",
+			"settings":
+			{
+				"buffer_size": 270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/algorithms/Algorithm.java",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/functions/Function.java",
+			"settings":
+			{
+				"buffer_size": 971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils/Solution.java",
+			"settings":
+			{
+				"buffer_size": 4433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils/Util.java",
+			"settings":
+			{
+				"buffer_size": 908,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/runJava.sublime-build",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"dee",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Sphere.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/TabuSearch.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/SteepestAscentHillClimbingReplacement.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/SteepestAscentHillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/SimulatedAnnealing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/RandomSearch.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/IteratedLocalSearch.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/HillClimbingRandomRestarts.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/FeatureBasedTabuSearch.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/FeaturedBasedTabuSearch.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/Metaheuristic.java",
+		"/home/andres/Java_Applications/MetaHeuristics/run-magic-matrix.sh",
+		"/home/andres/Proyectos/TaxiMío/server/api/user/user.controller.js",
+		"/home/andres/Proyectos/TaxiMío/server/api/user/index.js",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/seeds.txt",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/Point.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/Matrix.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/MagicMatrix.java",
+		"/var/www/html/integrar/js/main.js",
+		"/var/www/html/integrar/sftp-config.json",
+		"/var/www/html/integrar/index.html",
+		"/var/www/html/integrar/css/main.css",
+		"/var/www/html/integrar/img/logo.png",
+		"/var/www/html/integrar/logo.png",
+		"/home/andres/Documentos/afis.cvs",
+		"/home/andres/Documentos/deps.txt",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Util.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/HillClimbingRandomRestarts.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/LateAcceptanceHillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Algorithms.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/Main.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/MagicMatrix.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/Matrix.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/MagicMatrix",
+		"/home/andres/Java_Applications/MetaHeuristics/src/samples/magicMatrix.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Rastrigin.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Griewank.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Ackley.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Schwefel.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Functions.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Step.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/functions/Function.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Solution.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/algorithms/Algorithm.java",
+		"/home/andres/Descargas/TravelingSalesPerson.java",
+		"/home/andres/Java_Applications/MetaHeuristics/run.sh",
+		"/home/andres/Java_Applications/MetaHeuristics/src/Solution.java",
+		"/home/andres/Descargas/Funciones/Functions/Funcion.cs",
+		"/home/andres/Descargas/Funciones/Functions/Sphere.cs",
+		"/home/andres/Java_Applications/MetaHeuristics/src/MetaHeuristics.java",
+		"/home/andres/Timetabling (Tesis)/Ganador - ITC 2007/comp-2007-2-1.tim",
+		"/home/andres/Java_Applications/MetaHeuristics/src/entities/Solution.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/entities/Algorithm.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/entities/LocalSearch.java",
+		"/home/andres/Descargas/Funciones/Functions/Step.cs",
+		"/home/andres/Descargas/Funciones/ServicesLogic.csproj.user",
+		"/home/andres/Descargas/Funciones/ServicesLogic.csproj",
+		"/home/andres/Descargas/Funciones/ClassDiagram.cd",
+		"/home/andres/Descargas/Funciones/Functions/Griewank.cs",
+		"/home/andres/Descargas/Funciones/Properties/AssemblyInfo.cs",
+		"/home/andres/Java_Applications/ParentChild/build.xml",
+		"/home/andres/Java_Applications/ParentChild/src/entities/Main.java",
+		"/home/andres/Java_Applications/ParentChild/src/entities/Child.java",
+		"/home/andres/Java_Applications/ParentChild/src/entities/Parent.java",
+		"/home/andres/Java_Applications/ParentChild/src/Parent.java",
+		"/home/andres/Timetabling (Tesis)/Ganador - ITC 2007/userguidePatat08.txt",
+		"/home/andres/Java_Applications/srcpatat08/src/localsearch/solvers/complete/AbstractSolver.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Types.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/entities/Function.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/localsearch/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/README.md",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Runner.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Function.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/Algorithm.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/utils/runner.java",
+		"/home/andres/Java_Applications/MetaHeuristics/src/hillclimbing/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/hillclimbing/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristics/functions/Sphere.java",
+		"/home/andres/Java_Applications/Params/params.sublime-project",
+		"/home/andres/Java_Applications/MetaHeuristics/utils/Algorithm.java",
+		"/home/andres/Java_Applications/MetaHeuristics/run.sublime-workspace",
+		"/home/andres/Java_Applications/MetaHeuristics/run.sublime-project",
+		"/home/andres/Java_Applications/MetaHeuristics/MetaHeuristics.java",
+		"/home/andres/Java_Applications/MetaHeuristics/utils/Option.java",
+		"/home/andres/Java_Applications/MetaHeuristics/MetaHeuristicas.java",
+		"/home/andres/Java_Applications/MetaHeuristics/utils/Opcion.java",
+		"/home/andres/Java_Applications/MetaHeuristics/utilidades/Opcion.java",
+		"/home/andres/Java_Applications/MetaHeuristics/funciones/Sphere.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/hillclimbing/HillClimbing.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/utilidades/Opcion.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/funciones/Sphere.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/MetaHeuristicas.java",
+		"/home/andres/.config/sublime-text-2/Packages/User/java-class.sublime-snippet",
+		"/home/andres/Java_Applications/MetaHeuristicas/utilidades/MetaHeuristicas.java",
+		"/home/andres/Java_Applications/Params/Params.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/utils/Opcion.java",
+		"/home/andres/Java_Applications/MetaHeuristicas/funciones/Sphere",
+		"/home/andres/.config/sublime-text-2/Packages/User/runJava.sublime-build",
+		"/home/andres/Timetabling (Tesis)/Ganador - ITC 2007/comp-2007-2-1_1_0.sln",
+		"/home/andres/Timetabling (Tesis)/Ganador - ITC 2007/comp-2007-2-1.sln",
+		"/home/andres/Proyectos/acastillo/sftp-config.json",
+		"/home/andres/Proyectos/acastillo/index.html",
+		"/home/andres/Proyectos/node/nodetest1/views/helloworld.jade",
+		"/home/andres/Proyectos/node/nodetest1/routes/index.js",
+		"/home/andres/Proyectos/TaxiMío/child-out.log",
+		"/home/andres/Proyectos/TaxiMío/server/api/Utils/GCMUtils.js",
+		"/home/andres/Proyectos/use admin",
+		"/home/andres/Proyectos/Remote-Node/sftp-config.json",
+		"/home/andres/Proyectos/TaxiMío/server/api/user/user.model.request.js",
+		"/home/andres/Proyectos/TaxiMío/server/api/Utils/UserUtils.js",
+		"/home/andres/Proyectos/TaxiMío/server/api/user/user.model.js",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/assets/js/cms_loadmore.js",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/inc/template.functions.php",
+		"/media/andres/6C1C6D451C6D0C00/Users/Andrés/Desktop/JuanitaIlustra.txt",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/functions.php",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/single-templates/portfolio/detail-standard.php",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/languages/es_ES.po",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/languages/en_GB.po",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/header.php",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/single-templates/portfolio/detail-fullwidth.php",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-includes/version.php",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco/inc/dummy/zk_monaco02/widget_data.json",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/languages/es_ES.po",
+		"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/sftp-config.json",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/home/andres/Descargas/acasti_mydreams_blog.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/andres/Java_Applications/srcpatat08",
+			"/home/andres/Proyectos/TaxiMío/server",
+			"/home/andres/Proyectos/TaxiMío/server/api",
+			"/home/andres/Proyectos/TaxiMío/server",
+			"/home/andres/Proyectos/TaxiMío/server/api",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra",
+			"/home/andres/Proyectos/Juanita Ilustra/juanitailustra/wp-content/themes/zk_monaco"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"init",
+			"arrays",
+			"dimens",
+			"init",
+			"3e92cc",
+			"arrays",
+			"math",
+			"searchRadio",
+			"-nbruns",
+			"InstanceReader",
+			"public static void main(String[] args)",
+			"sendDatToUser",
+			"service_accpted",
+			"sendDatToUser",
+			"DATA to SEND GCM",
+			"sendDatToUser",
+			".Request",
+			"state",
+			"status",
+			"history",
+			"findOneAndUpdate",
+			"createdAt",
+			"_id",
+			"u._id",
+			"RateDriver",
+			"You can subscribe here to get our latest news.",
+			"Subcrible",
+			"no",
+			"loading",
+			"load more",
+			"view post",
+			"type your search",
+			"send message",
+			"You can subscribe",
+			"suscrible",
+			"suscribl",
+			"our daily",
+			"no more post",
+			"load more",
+			"loadmore",
+			"load more",
+			"\"load more\"",
+			"\"edit\"",
+			"\"all\"",
+			"all",
+			"view post",
+			";\"",
+			"about",
+			"load_theme_textdomain",
+			"THEMENAME",
+			"About the project",
+			"About the project ",
+			"twentytwelve",
+			"THEMENAME",
+			"en_GB",
+			"es_ES",
+			"langua",
+			"About the project",
+			"OUR DAILY INSPIRATIONS",
+			"load",
+			"load more",
+			".Request",
+			"popay",
+			".Request",
+			".Cancel",
+			"err send GCM",
+			".Request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Main.java",
+					"settings":
+					{
+						"buffer_size": 17431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16385,
+								16385
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7455.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Metaheuristic.java",
+					"settings":
+					{
+						"buffer_size": 2977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/utils/Algorithms.java",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/algorithms/Genetic.java",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/utils/Population.java",
+					"settings":
+					{
+						"buffer_size": 270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/algorithms/Algorithm.java",
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								792,
+								792
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/functions/Function.java",
+					"settings":
+					{
+						"buffer_size": 971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/utils/Solution.java",
+					"settings":
+					{
+						"buffer_size": 4433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1014,
+								1014
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/utils/Util.java",
+					"settings":
+					{
+						"buffer_size": 908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}

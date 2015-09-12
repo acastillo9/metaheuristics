@@ -1,0 +1,228 @@
+
+Magic Matrix
+
+llega: Point: x:0, y:0 val: 9
+elige: Point: x:1, y:1 val: 1
+[Point: x:1, y:1]
+llega: Point: x:0, y:0 val: 9
+elige: Point: x:2, y:0 val: 8
+[Point: x:1, y:1, Point: x:2, y:0]
+llega: Point: x:0, y:0 val: 9
+elige: Point: x:0, y:1 val: 6
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1]
+llega: Point: x:0, y:0 val: 6
+elige: Point: x:0, y:2 val: 3
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:2]
+llega: Point: x:0, y:0 val: 6
+elige: Point: x:1, y:2 val: 5
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:2, Point: x:1, y:2]
+llega: Point: x:0, y:0 val: 5
+elige: Point: x:1, y:0 val: 4
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:2, Point: x:1, y:2, Point: x:1, y:0]
+llega: Point: x:0, y:0 val: 5
+elige: Point: x:2, y:1 val: 7
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:2, Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:1]
+llega: Point: x:0, y:0 val: 7
+elige: Point: x:2, y:2 val: 2
+[Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:2, Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:1, Point: x:2, y:2]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:2, y:0 val: 8
+[Point: x:2, y:0]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:0, y:0 val: 2
+[Point: x:2, y:0, Point: x:0, y:0]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:0, y:2 val: 3
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:2, y:2 val: 7
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2, Point: x:2, y:2]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:2, y:1 val: 5
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2, Point: x:2, y:2, Point: x:2, y:1]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:1, y:1 val: 1
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2, Point: x:2, y:2, Point: x:2, y:1, Point: x:1, y:1]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:1, y:2 val: 6
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2, Point: x:2, y:2, Point: x:2, y:1, Point: x:1, y:1, Point: x:1, y:2]
+llega: Point: x:0, y:1 val: 9
+elige: Point: x:1, y:0 val: 4
+[Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:2, Point: x:2, y:2, Point: x:2, y:1, Point: x:1, y:1, Point: x:1, y:2, Point: x:1, y:0]
+llega: Point: x:0, y:2 val: 3
+elige: Point: x:2, y:1 val: 5
+[Point: x:2, y:1]
+llega: Point: x:0, y:2 val: 5
+elige: Point: x:1, y:2 val: 6
+[Point: x:2, y:1, Point: x:1, y:2]
+llega: Point: x:0, y:2 val: 5
+elige: Point: x:2, y:2 val: 7
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2]
+llega: Point: x:0, y:2 val: 5
+elige: Point: x:1, y:1 val: 1
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2, Point: x:1, y:1]
+llega: Point: x:0, y:2 val: 1
+elige: Point: x:0, y:0 val: 2
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2, Point: x:1, y:1, Point: x:0, y:0]
+llega: Point: x:0, y:2 val: 1
+elige: Point: x:2, y:0 val: 8
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2, Point: x:1, y:1, Point: x:0, y:0, Point: x:2, y:0]
+llega: Point: x:0, y:2 val: 1
+elige: Point: x:1, y:0 val: 4
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2, Point: x:1, y:1, Point: x:0, y:0, Point: x:2, y:0, Point: x:1, y:0]
+llega: Point: x:0, y:2 val: 1
+elige: Point: x:0, y:1 val: 9
+[Point: x:2, y:1, Point: x:1, y:2, Point: x:2, y:2, Point: x:1, y:1, Point: x:0, y:0, Point: x:2, y:0, Point: x:1, y:0, Point: x:0, y:1]
+llega: Point: x:1, y:0 val: 4
+elige: Point: x:1, y:2 val: 6
+[Point: x:1, y:2]
+llega: Point: x:1, y:0 val: 4
+elige: Point: x:0, y:0 val: 2
+[Point: x:1, y:2, Point: x:0, y:0]
+llega: Point: x:1, y:0 val: 2
+elige: Point: x:1, y:1 val: 5
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1]
+llega: Point: x:1, y:0 val: 2
+elige: Point: x:2, y:0 val: 8
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1, Point: x:2, y:0]
+llega: Point: x:1, y:0 val: 2
+elige: Point: x:0, y:1 val: 9
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1]
+llega: Point: x:1, y:0 val: 2
+elige: Point: x:2, y:1 val: 3
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:2, y:1]
+llega: Point: x:1, y:0 val: 3
+elige: Point: x:0, y:2 val: 1
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:2, y:1, Point: x:0, y:2]
+llega: Point: x:1, y:0 val: 3
+elige: Point: x:2, y:2 val: 7
+[Point: x:1, y:2, Point: x:0, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:0, y:1, Point: x:2, y:1, Point: x:0, y:2, Point: x:2, y:2]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:1, y:2 val: 6
+[Point: x:1, y:2]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:1, y:0 val: 3
+[Point: x:1, y:2, Point: x:1, y:0]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:2, y:2 val: 7
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:2, y:1 val: 2
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:2, y:1]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:0, y:2 val: 1
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:2, y:1, Point: x:0, y:2]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:2, y:0 val: 8
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:2, y:1, Point: x:0, y:2, Point: x:2, y:0]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:0, y:0 val: 4
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:2, y:1, Point: x:0, y:2, Point: x:2, y:0, Point: x:0, y:0]
+llega: Point: x:1, y:1 val: 5
+elige: Point: x:0, y:1 val: 9
+[Point: x:1, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:2, y:1, Point: x:0, y:2, Point: x:2, y:0, Point: x:0, y:0, Point: x:0, y:1]
+llega: Point: x:1, y:2 val: 6
+elige: Point: x:2, y:2 val: 7
+[Point: x:2, y:2]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:1, y:0 val: 3
+[Point: x:2, y:2, Point: x:1, y:0]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:0, y:2 val: 1
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:0, y:1 val: 9
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2, Point: x:0, y:1]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:1, y:1 val: 5
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2, Point: x:0, y:1, Point: x:1, y:1]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:0, y:0 val: 4
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2, Point: x:0, y:1, Point: x:1, y:1, Point: x:0, y:0]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:2, y:0 val: 8
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2, Point: x:0, y:1, Point: x:1, y:1, Point: x:0, y:0, Point: x:2, y:0]
+llega: Point: x:1, y:2 val: 7
+elige: Point: x:2, y:1 val: 2
+[Point: x:2, y:2, Point: x:1, y:0, Point: x:0, y:2, Point: x:0, y:1, Point: x:1, y:1, Point: x:0, y:0, Point: x:2, y:0, Point: x:2, y:1]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:2, y:1 val: 2
+[Point: x:2, y:1]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:0, y:0 val: 4
+[Point: x:2, y:1, Point: x:0, y:0]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:0, y:2 val: 1
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:1, y:0 val: 3
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2, Point: x:1, y:0]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:2, y:2 val: 6
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2, Point: x:1, y:0, Point: x:2, y:2]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:0, y:1 val: 9
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:0, y:1]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:1, y:1 val: 5
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:0, y:1, Point: x:1, y:1]
+llega: Point: x:2, y:0 val: 8
+elige: Point: x:1, y:2 val: 7
+[Point: x:2, y:1, Point: x:0, y:0, Point: x:0, y:2, Point: x:1, y:0, Point: x:2, y:2, Point: x:0, y:1, Point: x:1, y:1, Point: x:1, y:2]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:2, y:2 val: 6
+[Point: x:2, y:2]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:1, y:2 val: 7
+[Point: x:2, y:2, Point: x:1, y:2]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:2, y:0 val: 8
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:0, y:1 val: 9
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0, Point: x:0, y:1]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:0, y:0 val: 4
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:0]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:1, y:1 val: 5
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:0, Point: x:1, y:1]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:1, y:0 val: 3
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:0, Point: x:1, y:1, Point: x:1, y:0]
+llega: Point: x:2, y:1 val: 2
+elige: Point: x:0, y:2 val: 1
+[Point: x:2, y:2, Point: x:1, y:2, Point: x:2, y:0, Point: x:0, y:1, Point: x:0, y:0, Point: x:1, y:1, Point: x:1, y:0, Point: x:0, y:2]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:1, y:0 val: 3
+[Point: x:1, y:0]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:1, y:1 val: 5
+[Point: x:1, y:0, Point: x:1, y:1]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:2, y:0 val: 8
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:1, y:2 val: 7
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:1, y:2]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:2, y:1 val: 1
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:1, y:2, Point: x:2, y:1]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:0, y:2 val: 2
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:1, y:2, Point: x:2, y:1, Point: x:0, y:2]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:0, y:1 val: 9
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:1, y:2, Point: x:2, y:1, Point: x:0, y:2, Point: x:0, y:1]
+llega: Point: x:2, y:2 val: 6
+elige: Point: x:0, y:0 val: 4
+[Point: x:1, y:0, Point: x:1, y:1, Point: x:2, y:0, Point: x:1, y:2, Point: x:2, y:1, Point: x:0, y:2, Point: x:0, y:1, Point: x:0, y:0]
+0.0
+Iterations: 1
+Solution: 0.0
+
+Seed: 123
+4 9 2 
+3 5 7 
+8 1 6 
+

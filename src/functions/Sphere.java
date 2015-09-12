@@ -1,34 +1,20 @@
 package functions;
 
-import entities.Function;
-
 /**
- *
+ * class that implements the Sphere function
  * @author andres
  */
 public class Sphere extends Function {
 
-    private int dimens;
-
-    public Sphere() {
-        dimens = 1;
-    }
-
-    public Sphere(int dimens) {
-        this.dimens = dimens;
-    }
-
-    public int getDimens() {
-        return dimens;
-    }
-    public void setDimens(int dimens) {
-        this.dimens = dimens;
-    }
-
+	/**
+	 * Function that run the function Sphere operation from point in space
+	 * @param  vals  an array of values, one for each dimension
+	 * @return       the value for function evaluates in point received
+	 */
     public double run(double[] vals) {
         double total = 0;
         for(double val:vals) {
-            total += val*val;
+            total += Math.pow(val, 2);
         }
         return total;
     }

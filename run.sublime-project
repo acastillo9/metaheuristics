@@ -14,6 +14,15 @@
 	[
 		{
 			"path": "/home/andres/Java_Applications"
+		},
+		{
+			"path": "/home/andres/Descargas/Funciones"
+		},
+		{
+			"path": "/var/www"
+		},
+		{
+			"path": "/home/andres/Proyectos/TaxiMío"
 		}
 	]
 }

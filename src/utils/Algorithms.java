@@ -1,5 +1,5 @@
 package utils;
 
 public enum Algorithms {
-    HILLCLIMBING
+    HC, HCRR, RS, SAHC, SAHCR, SA, TS, FBTS, ILS, G
 }
